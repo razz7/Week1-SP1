@@ -5,7 +5,7 @@
 The solution for the exercises "EX1 1-7" can be found in the folder 01_tuesday in the subprojectfolder called point. 
 The second part can be found in the subprojectfolder called Week1Ex2. I dind't complete the jUnit test part. 
 But i did complete all the facade methods. 
-The start guide is in the subprojectfolder PlainJPA
+The start guide is in the subprojectfolder PlainJPA.
 The soulutions for these exercises has covered:
 - ORM framework
 - The use of JPA and the way to presist entities in a database 
@@ -25,9 +25,11 @@ This soloutions covers:
 ## Thursday 
 
 I solved some of the excercises. 
-Exercise 1 I solved 1-5
-Exercise 2 I solved 1-3
-Excercise 3 i solved 1 and 3. The second one I made: 
+- Exercise 1 I solved 1-5
+- Exercise 2 I solved 1-3
+- Excercise 3 i solved 1 and 3. 
+
+The second Excercise in Excercise 3 I made the endpoints: 
 - /api/employee/all
 - /api/employee/{id}
 
@@ -39,4 +41,9 @@ For some reason i cant talk to the DB.
 - The part i did shows how we can get data from a database to a client with a simple GET request. 
 - It also shows how to use the DTO classes to hide some of data we get from the databas, in this case its "salary".
 - I have designet some JPQL QUeries but im still not 100 sure how they work and how to use the to search for names etc. 
+
+
+## Friday 
+
+I dindt make the friday asignments since i dindt have to and i was figthing with the thursday ones. 
 
