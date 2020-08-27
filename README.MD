@@ -24,6 +24,11 @@ This soloutions covers:
 
 ## Thursday 
 
+# Excercise0
+i dindt have time to finish the tester assginemnt in the jpql-demo-for-day4. I forgot about them.
+
+# Excercise1
+
 I solved some of the excercises. 
 - Exercise 1 I solved 1-5
 - Exercise 2 I solved 1-3
@@ -35,9 +40,16 @@ The second Excercise in Excercise 3 I made the endpoints:
 
 The last two points wont work for me. 
 
+All of this above can be found the the 03_thursday folder, in the project folder week1-simple-jpa-rest
+
+i dindt have time to finish the tester assginemnt in the jpql-demo-for-day4.
+
+# Excercise3
+
 I have deployed the site on http://165.232.73.154:8081/jpa_rest_startup-1.0/ 
 but the endpoints dont work because there is no data in the DB. 
 For some reason i cant talk to the DB. 
+
 - The part i did shows how we can get data from a database to a client with a simple GET request. 
 - It also shows how to use the DTO classes to hide some of data we get from the databas, in this case its "salary".
 - I have designet some JPQL QUeries but im still not 100 sure how they work and how to use the to search for names etc. 
