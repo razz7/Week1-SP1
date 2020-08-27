@@ -34,7 +34,7 @@ I solved some of the excercises.
 - Exercise 2 I solved 1-3
 - Excercise 3 i solved 1 and 3. 
 
-The second Excercise in Excercise 3 I made the endpoints: 
+The second sub task in Excercise 3 I made the endpoints: 
 - /api/employee/all
 - /api/employee/{id}
 
