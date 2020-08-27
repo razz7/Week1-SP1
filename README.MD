@@ -24,10 +24,10 @@ This soloutions covers:
 
 ## Thursday 
 
-# Excercise0
+### Excercise0
 i dindt have time to finish the tester assginemnt in the jpql-demo-for-day4. I forgot about them.
 
-# Excercise1
+### Excercise1
 
 I solved some of the excercises. 
 - Exercise 1 I solved 1-5
@@ -44,7 +44,7 @@ All of this above can be found the the 03_thursday folder, in the project folder
 
 i dindt have time to finish the tester assginemnt in the jpql-demo-for-day4.
 
-# Excercise3
+### Excercise3
 
 I have deployed the site on http://165.232.73.154:8081/jpa_rest_startup-1.0/ 
 but the endpoints dont work because there is no data in the DB. 
